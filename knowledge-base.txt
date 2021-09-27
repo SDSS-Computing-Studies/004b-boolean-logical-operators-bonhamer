@@ -1,0 +1,37 @@
+input()
+print()
+print(x , end="")
+print(f"{expression} string literal")
+print(variable , variable)
+escape characters ( \n \\ \" \' \t )
+
+Concatenate string literals:
+joinedVariable = variable1 + variable 2
+
+Casting a variable to another type
+int(), str(), float()
+
+Decision making using conditional statements
+if
+if...else
+if...elif
+conditionals ( == , !=, >, <, >=, <= )
+xx in xxx (strings)
+xx in range(xx,xx) (integers)
+logical operators (and, or)
+
+Additional math operations
+import math
+math.sqrt()
+math.ceil()
+math.floor()
+math.pi()
+round()
+
+Additional functions:
+max()
+min()
+
+Math Operators:
+math operators (*, /, %, +, -, **)
+pow()
