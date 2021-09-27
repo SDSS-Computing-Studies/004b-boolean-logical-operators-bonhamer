@@ -24,7 +24,7 @@ x = str(input("Enter your name: ")).strip()
 if x in VIPNames:
     print(f"Hi {x}! You are a VIP!")
 else:
-    print("You are not a VIP.")g
+    print("You are not a VIP.")
 
 
 

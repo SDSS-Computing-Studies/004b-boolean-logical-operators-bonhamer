@@ -29,4 +29,4 @@ x = float(input("Enter a number: "))
 if x == int(x) and x>0:
     print(f"{x} is a positive integer")
 else:
-    print(f"{x} is not a postive integer")
+    print(f"{x} is not a positive integer")
