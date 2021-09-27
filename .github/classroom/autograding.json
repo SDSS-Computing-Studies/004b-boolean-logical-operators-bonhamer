@@ -125,7 +125,7 @@
       "setup": "",
       "run": "python3 problem3.py",
       "input": "6\r\n10\r\n8",
-      "output": "(6[\\.\\d]*,8[\\.\\d]*,10[\\.\\d]*) form a Pythagorean triple",
+      "output": "6[\\.\\d]*,8[\\.\\d]*,10[\\.\\d]* form a Pythagorean triple",
       "comparison": "regex",
       "timeout": 1,
       "points": 1
@@ -135,7 +135,7 @@
       "setup": "",
       "run": "python3 problem3.py",
       "input": "3\r\n4\r\n5",
-      "output": "(3[\\.\\d]*,4[\\.\\d]*,5[\\.\\d]*) form a Pythagorean triple",
+      "output": "3[\\.\\d]*,4[\\.\\d]*,5[\\.\\d]* form a Pythagorean triple",
       "comparison": "regex",
       "timeout": 1,
       "points": 1
