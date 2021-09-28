@@ -39,5 +39,5 @@ cb = round(cb, 8)
 if sq == int(sq) and cb == int(cb):
     print(f"{num1} is both a perfect square and perfect cube.")
 elif sq == int(sq) and cb != int(cb):
-    print(f"{num1} is only a perfect square")
+    print(f"{num1} is only a perfect square.")
 elif sq != int(sq) and cb == int(cb):
